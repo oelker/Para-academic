@@ -19,3 +19,8 @@ script should display correctly unless the user overrides the font choice.
 The original mixture of serif and sans serif fonts was not replicated in 
 the conversion, for simplicity's sake, but almost all of the other 
 formatting from the PDF version is replicated.</p>
+
+The original work was made available under   
+https://creativecommons.org/licenses/by-nc-nd/3.0/ and thus this 
+conversion is offered under the similar but current 
+https://creativecommons.org/licenses/by-nc-nd/4.0/ license.
