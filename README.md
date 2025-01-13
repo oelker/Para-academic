@@ -1,5 +1,5 @@
 
-#The Para-academic Handbook: a free ePub conversion#
+# The Para-academic Handbook: a free ePub conversion
 
 <p>This repository contains a free ePub conversion of the following work: 
 
