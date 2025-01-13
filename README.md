@@ -23,4 +23,6 @@ formatting from the PDF version is replicated.</p>
 The original work was made available under   
 https://creativecommons.org/licenses/by-nc-nd/3.0/ and thus this 
 conversion is offered under the similar but current 
-https://creativecommons.org/licenses/by-nc-nd/4.0/ license.
+https://creativecommons.org/licenses/by-nc-nd/4.0/ license. Please refer 
+to the rights statement on page 4 of the PDF version for the original 
+rights statement. 
